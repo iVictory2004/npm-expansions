@@ -1,5 +1,4 @@
 *nix Programming Mammals
-Notabely Phat Marsupials 
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -693,6 +692,7 @@ Not Particularly Meaningful
 Not Pictured: Mangoes
 Not Preposterously Macho
 Not Providing Milkshakes
+Notabely Phat Marsupials
 Notable Pastry Maker
 Notable Peru Mariachis
 Notable Pottery Manufacturer
